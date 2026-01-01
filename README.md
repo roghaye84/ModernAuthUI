@@ -1,6 +1,6 @@
 ## 💻 ModernAuthUI – Login & Signup Form
 
-A clean, modern, and responsive login/signup interface featuring dark mode, gradient buttons, and social media integrations — built with HTML, CSS, and JavaScript. Perfect for demonstrating front-end design skills, responsive layouts, and modern UI/UX principles.
+A clean, modern, and responsive login/signup interface featuring dark mode, gradient buttons, and social media integrations — built with HTML, CSS, and JavaScript. Perfect for demonstrating front-end design skills, responsive layouts, and modern UI/UX principles...
 
 
 ---
